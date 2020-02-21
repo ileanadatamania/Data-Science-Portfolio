@@ -30,7 +30,7 @@ Impressions explode, Null Values, Drop of unused Variables, Text normalization w
  
  <img src="https://github.com/ileanadatamania/images1/blob/master/impcount.png" width="400" height="500">
 
-- ### 1.2.- [Unsupervised Text Classification with TDIF Vectorizing and Kmeans](https://github.com/ileanadatamania/MLPortfolio/blob/master/Unsupervised_Unlabelled_Product_Category_Text_Classification_TDIF_Vectorizing_Kmeans_Git1_2.ipynb)
+- ### 1.2.- [Unsupervised Text Classification with TDIF Vectorizing and Kmeans](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Kmeans_TDIF_NLP_TextClustering.ipynb)
 
 
 <img src="https://github.com/ileanadatamania/images1/blob/master/wordcloud.png" width="600" height="500">
