@@ -35,7 +35,7 @@ Impressions explode, Null Values, Drop of unused Variables, Text normalization w
 
 <img src="https://github.com/ileanadatamania/images1/blob/master/wordcloud.png" width="600" height="500">
 <img src="https://github.com/ileanadatamania/images1/blob/master/clustword.png" width="400" height="400">
-#### **About Model Implemented**
+#### About Model Implemented
 
 Due that the dataset do not count with category labelling for further price analysis between similar products (**i.e. tablets, headphones**).
 
@@ -47,7 +47,7 @@ Category_name and Cluster features were created from unique product names with t
 
 - **NLTK,sklearn,RE(Regex), WordCloud, Matplotlib, Pandas and Numpy**          
  
-- ## Part 2 .- Exploratory Data Analysis ##
+- ## Part 2 .-[Exploratory Data Analysis](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/EDA_Price.ipynb)
 
  
  <img src="https://github.com/ileanadatamania/images1/blob/master/distplot.png" >
