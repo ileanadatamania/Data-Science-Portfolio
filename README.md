@@ -25,7 +25,7 @@ Does free shipping boost impressions in electronic products? If yes, which produ
 ## Part 1 .- Data Cleaning and Preprocessing ##
 
 
- - ### 1.1.- [E-commerce Product Data Cleaning](https://github.com/ileanadatamania/MLPortfolio/blob/master/DataCleaning_Git1_1.ipynb) 
+ - ### 1.1.- [E-commerce Product Data Cleaning](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/DataCleaning_price.ipynb) 
 Impressions explode, Null Values, Drop of unused Variables, Text normalization was mainly executed with Numpy, Pandas,        Regex   and Matplotlib libraries
  
  <img src="https://github.com/ileanadatamania/images1/blob/master/impcount.png" width="400" height="500">
