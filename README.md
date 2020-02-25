@@ -52,7 +52,7 @@ WordCloud       |  Electronic Category Labels Clusters
 
 ## Part 2 .- Exploratory Data Analysis##
  
-- ## Part 2 .-[Price Exploratory Data Analysis](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/EDA_Price.ipynb)
+- ### 2.1.-[Price Exploratory Data Analysis](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/EDA_Price.ipynb)
 
 For further calculation of price elasticities with multilinear regression model. This price exploratory analysis was executed for following reasons:
 
