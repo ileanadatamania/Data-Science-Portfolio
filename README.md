@@ -7,7 +7,7 @@
 |Libraries Used| sklearn, NLTK, Numpy, Pandas, re(Regex), matplotlib, seaborn, wordcloud|
 |Projects Count| 3|
 | Author | Ileana Cabada |
-| Dataset | [Electronic_product_prices](https://www.kaggle.com/datafiniti/electronic-products-prices)|
+| Dataset | [Electronic_Pricedataset](https://www.kaggle.com/datafiniti/electronic-products-prices)|
 
 
 **About Portfolio** - This portfolio's main purpose is to analyze price tendencies and impact in demand by pricing variation through time in various e-commerce platforms for brands among similar electronic products.
