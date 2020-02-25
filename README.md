@@ -26,7 +26,10 @@ product name,  product description, product advertisment dateseen (impression), 
 
 
  - ### 1.1.- [E-commerce Product Data Cleaning](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/DataCleaning_price.ipynb) 
-Impressions explode, Null Values, Drop of unused Variables, Text normalization was mainly executed with Numpy, Pandas,        Regex   and Matplotlib libraries
+ managing null values, drop of unused features, text normalization 
+
+#### Libraries 
+- **RE(Regex), Matplotlib, Pandas and Numpy**  
  
  <img src="https://github.com/ileanadatamania/images1/blob/master/impcount.png" width="400" height="500">
 
@@ -38,7 +41,7 @@ Due that the dataset do not count with category labelling for further price anal
 
 Category_name and Cluster features were created from unique product names with their respective product description.  
 
-#### Model Libraries 
+#### Libraries 
 
 - **NLTK,sklearn,RE(Regex), WordCloud, Matplotlib, Pandas and Numpy**  
 
@@ -57,6 +60,10 @@ For further calculation of price elasticities with multilinear regression model.
 - Price Distribution Analysis
 - Discount Price correlation with Impression Total Count per Category
 - Merchant (e-commerce) impression time analysis
+
+#### Libraries 
+
+- **seaborn, Matplotlib, Pandas and Numpy**  
 
 
 
