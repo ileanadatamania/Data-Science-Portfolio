@@ -42,8 +42,12 @@ Category_name and Cluster features were created from unique product names with t
 
 - **NLTK,sklearn,RE(Regex), WordCloud, Matplotlib, Pandas and Numpy**  
 
-<img src="https://github.com/ileanadatamania/images1/blob/master/wordcloud.png" width="600" height="500">
-<img src="https://github.com/ileanadatamania/images1/blob/master/clustword.png" width="400" height="400">      
+
+WordCloud       |  Electronic Category Labels Clusters
+:-------------------------:|:-------------------------:
+![](https://github.com/ileanadatamania/images1/blob/master/wordcloud.png)  |  ![](https://github.com/ileanadatamania/images1/blob/master/clustword.png)
+
+  
  
 - ## Part 2 .-[Exploratory Data Analysis](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/EDA_Price.ipynb)
 
@@ -54,10 +58,14 @@ For further calculation of price elasticities with multilinear regression model.
 - Discount Price correlation with Impression Total Count per Category
 - Merchant (e-commerce) impression time analysis
 
+
+
+Price Distribution Plot     | Price Discount Correlation Heatmap
+:-------------------------:|:-------------------------:
+![](https://github.com/ileanadatamania/images1/blob/master/distplot.png)  |  ![](https://github.com/ileanadatamania/images1/blob/master/heatmapdisc.png)
+
  
- <img src="https://github.com/ileanadatamania/images1/blob/master/distplot.png" >
-  <img src="https://github.com/ileanadatamania/images1/blob/master/heatmapdisc.png" >
-       
+
    ** To be continued.... **
    
 | Contact Source | Information |
