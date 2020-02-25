@@ -50,9 +50,9 @@ WordCloud       |  Electronic Category Labels Clusters
 :-------------------------:|:-------------------------:
 ![](https://github.com/ileanadatamania/images1/blob/master/wordcloud.png)  |  ![](https://github.com/ileanadatamania/images1/blob/master/clustword.png)
 
-  
+## Part 2 .- Exploratory Data Analysis##
  
-- ## Part 2 .-[Exploratory Data Analysis](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/EDA_Price.ipynb)
+- ## Part 2 .-[Price Exploratory Data Analysis](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/EDA_Price.ipynb)
 
 For further calculation of price elasticities with multilinear regression model. This price exploratory analysis was executed for following reasons:
 
@@ -65,6 +65,9 @@ For further calculation of price elasticities with multilinear regression model.
 
 - **seaborn, Matplotlib, Pandas and Numpy**  
 
+## Part 3 .- Price and Impression Demand Prediction Model ##
+
+**To be continued**
 
 
 Price Distribution Plot     | Price Discount Correlation Heatmap
