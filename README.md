@@ -13,20 +13,20 @@
 **About Portfolio** - This portfolio's main purpose is to analyze price tendencies and impact in demand by pricing variation through time in various e-commerce platforms for brands among similar electronic products.
 
 Hypotheses
-i.e. Does product impression demand of company X  increase,what if direct company competitor Y increases their prices on the same or similar electronic products within a certain timeframe?
+i.e. Does product impression demand of company X  increase, what if direct company competitor Y increases their prices on the same or similar electronic products within a certain timeframe?
 Does free shipping boost impressions in electronic products? If yes, which products tend to have better results? 
 
 
 **About the dataset** - 
-Original dataset include only electronic products  with following features:
-product name,  product description, product advertisment dateseen (impression), discount price, regular price, merchant (e-commerce website) and others
+Original dataset includes only electronic products with following features:
+product name, product description, product advertisment dateseen (impression), discount price, regular price, merchant (e-commerce website) and others
 
 # Content 
 ## Part 1 .- Data Cleaning and Preprocessing ##
 
 
  - ### 1.1.- [E-commerce Product Data Cleaning](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/DataCleaning_price.ipynb) 
- managing null values, drop of unused features, text normalization 
+ managing null values, dropping of unused features, text normalization 
 
 #### Libraries 
 - **RE(Regex), Matplotlib, Pandas and Numpy**  
@@ -35,15 +35,15 @@ product name,  product description, product advertisment dateseen (impression), 
 
 - ### 1.2.- [Unsupervised Text Classification with TDIF Vectorizing and Kmeans](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Kmeans_TDIF_NLP_TextClustering.ipynb)
 #### About Model Implemented
-Due that the dataset do not count with category labelling for further price analysis between similar products (**i.e. tablets, headphones**).
+Due to the fact that the dataset doesn't count with category labelling for further price analysis between similar products (**i.e. tablets, headphones**).
 
-**Unsupervised texting clusterinng model** was implemented by using texting preprocessing techniques such as Lemmatization,Regex, Tokenization, followed by TF-IDF Vectorization and Kmeans algorithm.
+**Unsupervised texting clusterinng model** was implemented by using texting preprocessing techniques such as Lemmatization, Regex, Tokenization, followed by TF-IDF Vectorization and Kmeans algorithm.
 
 Category_name and Cluster features were created from unique product names with their respective product description.  
 
 #### Libraries 
 
-- **NLTK,sklearn,RE(Regex), WordCloud, Matplotlib, Pandas and Numpy**  
+- **NLTK, sklearn, RE(Regex), WordCloud, Matplotlib, Pandas and Numpy**  
 
 
 WordCloud       |  Electronic Category Label Clusters
