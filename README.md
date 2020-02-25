@@ -50,7 +50,7 @@ WordCloud       |  Electronic Category Labels Clusters
 :-------------------------:|:-------------------------:
 ![](https://github.com/ileanadatamania/images1/blob/master/wordcloud.png)  |  ![](https://github.com/ileanadatamania/images1/blob/master/clustword.png)
 
-## Part 2 .- Exploratory Data Analysis##
+## Part 2 .- Exploratory Data Analysis
  
 - ### 2.1.-[Price Exploratory Data Analysis](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/EDA_Price.ipynb)
 
