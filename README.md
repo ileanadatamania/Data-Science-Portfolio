@@ -18,8 +18,8 @@ Does free shipping boost impressions in electronic products? If yes, which produ
 
 
 **About the dataset** - 
-
-(Explain features)
+Original dataset include only electronic products  with following features:
+product name,  product description, product advertisment dateseen (impression), discount price, regular price, merchant (e-commerce website) and others
 
 # Content 
 ## Part 1 .- Data Cleaning and Preprocessing ##
