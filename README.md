@@ -49,6 +49,13 @@ Category_name and Cluster features were created from unique product names with t
  
 - ## Part 2 .-[Exploratory Data Analysis](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/EDA_Price.ipynb)
 
+For further calculation of price elasticities with multilinear regression model. This price exploratory analysis was executed for following reasons:
+
+- Product Condition Selection
+- Price Distribution Analysis
+- Discount Price correlation with Impression Total Count per Category
+- Merchant (e-commerce) impression time analysis
+
  
  <img src="https://github.com/ileanadatamania/images1/blob/master/distplot.png" >
   <img src="https://github.com/ileanadatamania/images1/blob/master/heatmapdisc.png" >
