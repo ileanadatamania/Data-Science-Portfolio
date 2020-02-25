@@ -46,7 +46,7 @@ Category_name and Cluster features were created from unique product names with t
 - **NLTK,sklearn,RE(Regex), WordCloud, Matplotlib, Pandas and Numpy**  
 
 
-WordCloud       |  Electronic Category Labels Clusters
+WordCloud       |  Electronic Category Label Clusters
 :-------------------------:|:-------------------------:
 ![](https://github.com/ileanadatamania/images1/blob/master/wordcloud.png)  |  ![](https://github.com/ileanadatamania/images1/blob/master/clustword.png)
 
