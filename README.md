@@ -65,18 +65,14 @@ For further calculation of price elasticities with multilinear regression model.
 
 - **seaborn, Matplotlib, Pandas and Numpy**  
 
-## Part 3 .- Price and Impression Demand Prediction Model ##
-
-**To be continued**
-
-
 Price Distribution Plot     | Price Discount Correlation Heatmap
 :-------------------------:|:-------------------------:
 ![](https://github.com/ileanadatamania/images1/blob/master/distplot.png)  |  ![](https://github.com/ileanadatamania/images1/blob/master/heatmapdisc.png)
 
- 
+## Part 3 .- Price and Impression Demand Prediction Model ##
 
-   ** To be continued.... **
+**To be continued...**
+
    
 | Contact Source | Information |
 | --- | --- |
