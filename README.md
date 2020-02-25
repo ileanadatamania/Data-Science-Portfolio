@@ -58,8 +58,8 @@ For further calculation of price elasticities with multilinear regression model.
 
 - Product Condition Selection
 - Price Distribution Analysis
-- Discount Price correlation with Impression Total Count per Category
-- Merchant (e-commerce) impression time analysis
+- Discount Price Correlation with Impression Total Count per Category
+- Merchant (e-commerce) Impression Time Analysis
 
 #### Libraries 
 
