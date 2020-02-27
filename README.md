@@ -69,9 +69,26 @@ Price Distribution Plot     | Price Discount Correlation Heatmap
 :-------------------------:|:-------------------------:
 ![](https://github.com/ileanadatamania/images1/blob/master/distplot.png)  |  ![](https://github.com/ileanadatamania/images1/blob/master/heatmapdisc.png)
 
-## Part 3 .- Price and Impression Demand Prediction Model ##
+## Part 3 .-  Price Elasticity and Cross-Price Elasticity of Demand ##
 
-**To be continued...**
+- ### 3.1 Price Elasticity
+In following analysis, we would select Best Buy products as our main price elasticity analysis. For future reference,this model can be implemented in every kind of vendors by e-commerce or brick and mortar.
+
+ **Hypothesis Proposed**
+
+ From Bestbuy laptop sample data in 2017. Is impression demand sensitive to its own product price changes? If yes, by how much   impression demand is sensitive to price?
+ 
+ **Machine Learning Model**
+
+- Linear Regression
+
+Laptop, Desktop Price Elasticity     |
+:-------------------------:|
+![](https://github.com/ileanadatamania/images1/blob/master/price_elasticity.png)|
+
+- ### 3.2 Cross- Price Elasticity
+
+**To be continued**
 
    
 | Contact Source | Information |
