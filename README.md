@@ -5,7 +5,7 @@
 | Portfolio #1 | E-commerce Product Cross - Price Elasticity |
 |Language| Python|
 |Libraries Used| sklearn, NLTK, Numpy, Pandas, re(Regex), matplotlib, seaborn, wordcloud|
-|Projects Count| 3|
+|Projects Count| 4|
 | Author | Ileana Cabada |
 | Dataset | [Electronic_Pricedataset](https://www.kaggle.com/datafiniti/electronic-products-prices)|
 
