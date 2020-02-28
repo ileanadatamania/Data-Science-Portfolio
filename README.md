@@ -12,11 +12,6 @@
 
 **About Portfolio** - This portfolio's main purpose is to analyze price tendencies and impact in demand by pricing variation through time in various e-commerce platforms for brands among similar electronic products.
 
-Hypotheses
-i.e. Does product impression demand of company X  increase,if direct company competitor Y increases their prices on the same or similar electronic products within a certain timeframe?
-Does free shipping boost impressions in electronic products? If yes, which products tend to have better results? 
-
-
 **About the dataset** - 
 Original dataset includes only electronic products with following features:
 product name, product description, product advertisment dateseen (impression), discount price, regular price, merchant (e-commerce website) and others
