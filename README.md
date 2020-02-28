@@ -2,7 +2,7 @@
 
 | Portfolio Information | Description |
 | --- | --- |
-| Portfolio #1 | E-commerce Product Cross - Price Elasticity |
+| Portfolio #1 | E-commerce Product Price Analysis |
 |Language| Python|
 |Libraries Used| sklearn, NLTK,statsmodels, Numpy, Pandas, re(Regex), matplotlib, seaborn, wordcloud|
 |Projects Count| 4|
