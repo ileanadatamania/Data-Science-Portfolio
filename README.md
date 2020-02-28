@@ -30,8 +30,7 @@ product name, product description, product advertisment dateseen (impression), d
 
 #### Libraries 
 - **RE(Regex), Matplotlib, Pandas and Numpy**  
- 
- <img src="https://github.com/ileanadatamania/images1/blob/master/impcount.png" width="400" height="500">
+
 
 - ### 1.2.- [Unsupervised Text Classification with TDIF Vectorizing and Kmeans](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Kmeans_TDIF_NLP_TextClustering.ipynb)
 #### About Model Implemented
