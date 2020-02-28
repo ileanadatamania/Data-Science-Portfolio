@@ -4,7 +4,7 @@
 | --- | --- |
 | Portfolio #1 | E-commerce Product Cross - Price Elasticity |
 |Language| Python|
-|Libraries Used| sklearn, NLTK, Numpy, Pandas, re(Regex), matplotlib, seaborn, wordcloud|
+|Libraries Used| sklearn, NLTK,statsmodels, Numpy, Pandas, re(Regex), matplotlib, seaborn, wordcloud|
 |Projects Count| 4|
 | Author | Ileana Cabada |
 | Dataset | [Electronic_Pricedataset](https://www.kaggle.com/datafiniti/electronic-products-prices)|
@@ -33,7 +33,11 @@ Due to the fact that the dataset doesn't count with category labelling for furth
 
 **Unsupervised texting clusterinng model** was implemented by using texting preprocessing techniques such as Lemmatization, Regex, Tokenization, followed by TF-IDF Vectorization and Kmeans algorithm.
 
-Category_name and Cluster features were created from unique product names with their respective product description.  
+Category_name and Cluster features were created from unique product names with their respective product description. 
+
+#### Machine Learning Model
+
+- Kmeans
 
 #### Libraries 
 
@@ -72,7 +76,10 @@ In following analysis, we would select Best Buy products as our main price elast
 
  From Bestbuy laptop sample data in 2017. Is impression demand sensitive to its own product price changes? If yes, by how much   impression demand is sensitive to price change?
  
- **Machine Learning Model**
+ #### Libraries
+ *** statsmodels, NumPy, Pandas, Matplotlib ***
+ 
+#### Machine Learning Model
 
 - Linear Regression
 
