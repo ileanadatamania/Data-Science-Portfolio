@@ -83,7 +83,8 @@ In following analysis, we would select Best Buy products as our main price elast
 - Linear Regression
 
  #### Libraries
- - **statsmodels, NumPy, Pandas, Matplotlib **
+ 
+- **statsmodels, NumPy, Pandas, Matplotlib**
 
 Laptop, Desktop Price Elasticity     |
 :-------------------------:|
