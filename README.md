@@ -76,12 +76,14 @@ In following analysis, we would select Best Buy products as our main price elast
 
  From Bestbuy laptop sample data in 2017. Is impression demand sensitive to its own product price changes? If yes, by how much   impression demand is sensitive to price change?
  
- #### Libraries
- *** statsmodels, NumPy, Pandas, Matplotlib ***
+
  
 #### Machine Learning Model
 
 - Linear Regression
+
+ #### Libraries
+ - **statsmodels, NumPy, Pandas, Matplotlib **
 
 Laptop, Desktop Price Elasticity     |
 :-------------------------:|
