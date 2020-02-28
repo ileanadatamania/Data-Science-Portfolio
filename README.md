@@ -55,6 +55,7 @@ WordCloud       |  Electronic Category Label Clusters
 For further calculation of price elasticities with multilinear regression model. This price exploratory analysis was executed for following reasons:
 
 - Product Condition Selection
+- Price Outlier Detection
 - Price Distribution Analysis
 - Discount Price Correlation with Impression Total Count per Category
 - Merchant (e-commerce) Impression Time Analysis
