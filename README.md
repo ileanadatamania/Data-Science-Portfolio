@@ -5,7 +5,7 @@
 | Portfolio #1 | E-commerce Product Price Analysis |
 |Language| Python|
 |Libraries Used| sklearn, NLTK,statsmodels, Numpy, Pandas, re(Regex), matplotlib, seaborn, wordcloud|
-|Projects Count| 4|
+|Projects Count| 5|
 | Author | Ileana Cabada |
 | Dataset | [Electronic_Pricedataset](https://www.kaggle.com/datafiniti/electronic-products-prices)|
 
