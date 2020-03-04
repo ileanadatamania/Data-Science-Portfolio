@@ -96,8 +96,8 @@ Laptop, Desktop Price Elasticity     |
 
  **Hypothesis Proposed**
 
- From Bestbuy laptop sample data in 2017. How much is ad impression demand influenced by main competitors when they change their prices?
- This model help us know the naturality of competition between prices of our own price product advertised against main competitors price product changes
+ How much is ad impression demand influenced by main competitors when they change their prices?
+ This model help us to know the naturality of competition between prices of our own price product advertised against main     competitors price product changes
 
 #### Machine Learning Model
 
