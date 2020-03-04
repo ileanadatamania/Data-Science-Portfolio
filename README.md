@@ -75,7 +75,7 @@ In following analysis, we would select Best Buy products as our main price elast
 
  **Hypothesis Proposed**
 
- From Bestbuy laptop sample data in 2017. Is impression demand sensitive to its own product price changes? If yes, by how much   impression demand is sensitive to price change?
+ From Bestbuy laptop sample data in 2017. Is ad impression demand sensitive to its own product price changes? If yes, by how much ad impression demand is sensitive to price change?
  
 
  
@@ -93,7 +93,21 @@ Laptop, Desktop Price Elasticity     |
 
 - ### 3.2 Cross- Price Elasticity
 
-**To be continued**
+
+- ### 3.2 [Cross-Price Elasticity of Ad Impression Demand](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/%20Cross_Price_Elasticityof_Demand.ipynb)
+
+ **Hypothesis Proposed**
+
+ From Bestbuy laptop sample data in 2017. How much is ad impression demand influenced by main competitors when they change their prices?
+ This model help us know the naturality of competition between prices of our own price product advertised against main competitors price product changes
+
+#### Machine Learning Model
+
+- Multi Linear Regression
+
+ #### Libraries
+ 
+- **statsmodels, NumPy, Pandas, Matplotlib**
 
    
 | Contact Source | Information |
