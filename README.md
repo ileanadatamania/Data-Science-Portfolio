@@ -71,7 +71,7 @@ Price Distribution Plot     | Price Discount Correlation Heatmap
 ## Part 3 .-  Price Elasticity and Cross-Price Elasticity of Ad Impression Demand ##
 
 - ### 3.1 [Price Elasticity of Ad Impression Demand](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Price_Elasticityof_Demand.ipynb)
-In following analysis, we would select Best Buy products as our main price elasticity analysis. For future reference,this model can be implemented in every kind of vendors by e-commerce or brick and mortar.
+In following analysis, we would select Best Buy products as main data sample for our price elasticity analysis. For future reference,this model can be implemented in every kind of vendors by e-commerce or brick and mortar by measuring sales demand
 
  **Hypothesis Proposed**
 
