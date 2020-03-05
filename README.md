@@ -107,6 +107,10 @@ Laptop, Desktop Price Elasticity     |
  
 - **statsmodels, NumPy, Pandas, Matplotlib**
 
+Cross-Price Elasticity of 12 Mac Book     |
+:-------------------------:|
+![](https://github.com/ileanadatamania/images1/blob/master/CPE.png)
+
    
 | Contact Source | Information |
 | --- | --- |
