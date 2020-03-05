@@ -10,7 +10,7 @@
 | Dataset | [Electronic_Pricedataset](https://www.kaggle.com/datafiniti/electronic-products-prices)|
 
 
-**About Portfolio** - This portfolio's main purpose is to analyze price tendencies and impact in demand by pricing variation through time in various e-commerce platforms for brands among similar electronic products.
+**About Portfolio** - This portfolio's main purpose is to analyze price tendencies and the impact in the ad impression demand by pricing variation through time in various e-commerce platforms for brands among similar electronic products.
 
 **About the dataset** - 
 Original dataset includes only electronic products with following features:
