@@ -92,7 +92,7 @@ Laptop, Desktop Price Elasticity     |
 ![](https://github.com/ileanadatamania/images1/blob/master/price_elasticity.png)|
 
 
-- ### 3.2 [Cross-Price Elasticity of Ad Impression Demand](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/%20Cross_Price_Elasticityof_Demand.ipynb)
+- ### 3.2 [Cross-Price Elasticity of Ad Impression Demand](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Cross-Price_ONLY.ipynb)
 
  **Hypothesis Proposed**
 
