@@ -31,7 +31,7 @@ product name, product description, product advertisment dateseen (impression), d
 #### About Model Implemented
 Due to the fact that the dataset doesn't count with category labelling for further price analysis between similar products (**i.e. tablets, headphones**).
 
-**Unsupervised texting clusterinng model** was implemented by using texting preprocessing techniques such as Lemmatization, Regex, Tokenization, followed by TF-IDF Vectorization and Kmeans algorithm.
+**Unsupervised texting clustering model** was implemented by using texting preprocessing techniques such as Lemmatization, Regex, Tokenization, followed by TF-IDF Vectorization and Kmeans algorithm.
 
 Category_name and Cluster features were created from unique product names with their respective product description. 
 
