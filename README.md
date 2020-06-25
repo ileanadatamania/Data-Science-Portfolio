@@ -32,7 +32,7 @@ From Bestbuy laptop sample data in 2017. Is ad impression demand sensitive to it
 
 Laptop, Desktop Price Elasticity     |
 :-------------------------:|
-![](https://github.com/ileanadatamania/images1/blob/master/CPE.png)
+![](https://github.com/ileanadatamania/images1/blob/master/PE.png)
 
 
 - ### [Cross-Price Elasticity of Ad Impression Demand](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Cross-Price_ONLY.ipynb)
