@@ -2,7 +2,6 @@
 
 | Portfolio Information | Description |
 | --- | --- |
-| Portfolio #1 | E-commerce Product Price Elasticity of Ad Impression Demand Analysis |
 |Language| Python|
 |Libraries Used| sklearn, NLTK,statsmodels, Numpy, Pandas, re(Regex), matplotlib, seaborn, wordcloud|
 |Projects Count| 5|
@@ -14,18 +13,15 @@
 
 # Content 
 # Probability and Statistics #
-## Part 3 .-  Price Elasticity and Cross-Price Elasticity of Ad Impression Demand ##
 
-- ### 3.1 [Price Elasticity of Ad Impression Demand](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Price_Elasticityof_Demand.ipynb)
+- ### [Price Elasticity of Ad Impression Demand](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Price_Elasticityof_Demand.ipynb)
 In following analysis, we would select Best Buy products as main data sample for our price elasticity analysis. For future reference,this model can be implemented in every kind of vendors by e-commerce or brick and mortar by measuring sales demand
 
  **Hypothesis Proposed**
 
- From Bestbuy laptop sample data in 2017. Is ad impression demand sensitive to its own product price changes? If yes, by how much ad impression demand is sensitive to price change?
+From Bestbuy laptop sample data in 2017. Is ad impression demand sensitive to its own product price changes? If yes, by how much ad impression demand is sensitive to price change?
  
-
- 
-#### Machine Learning Model
+#### Statistical Model
 
 - Linear Regression
 
@@ -38,7 +34,7 @@ Laptop, Desktop Price Elasticity     |
 ![](https://github.com/ileanadatamania/images1/blob/master/CPE.png)
 
 
-- ### 3.2 [Cross-Price Elasticity of Ad Impression Demand](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Cross-Price_ONLY.ipynb)
+- ### [Cross-Price Elasticity of Ad Impression Demand](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Cross-Price_ONLY.ipynb)
 
  **Hypothesis Proposed**
 
@@ -55,7 +51,7 @@ Laptop, Desktop Price Elasticity     |
 
 # Machine Learning and Natural Language Processing #
 
-- ### 1.2.- [Unsupervised Text Classification with TDIF Vectorizing and Kmeans](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Kmeans_TDIF_NLP_TextClustering.ipynb)
+- ### [Unsupervised Text Classification with TDIF Vectorizing and Kmeans](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Kmeans_TDIF_NLP_TextClustering.ipynb)
 #### About Model Implemented
 Due to the fact that the dataset doesn't count with category labelling for further price analysis between similar products (**i.e. tablets, headphones**).
 
@@ -78,7 +74,7 @@ WordCloud       |  Electronic Category Label Clusters
 
 # Exploratory Data Analysis EDA #
  
-- ### 2.1.-[Price Exploratory Data Analysis](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/EDA_Price.ipynb)
+- ### [Price Exploratory Data Analysis](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/EDA_Price.ipynb)
 
 For further calculation of price elasticities with multilinear regression model. This price exploratory analysis was executed for following reasons:
 
@@ -100,7 +96,7 @@ Price Distribution Plot     | Price Discount Correlation Heatmap
 # Data Cleaning and Preprocessing #
 
 
- - ### 1.1.- [E-commerce Product Data Cleaning](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/DataCleaning_price.ipynb) 
+ - ### [E-commerce Product Data Cleaning](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/DataCleaning_price.ipynb) 
  managing null values, dropping of unused features, text normalization 
 
 #### Libraries 
