@@ -6,8 +6,10 @@
 |Libraries Used| sklearn, NLTK,statsmodels, Numpy, Pandas, re(Regex), matplotlib, seaborn, wordcloud|
 |Projects Count| 6|
 | Author | Ileana Cabada |
-| Dataset | [Electronic_Pricedataset](https://www.kaggle.com/datafiniti/electronic-products-prices)
-,[AB Testing dataset](https://www.datacamp.com/projects/184)|
+| Dataset | [Electronic_Pricedataset](https://www.kaggle.com/datafiniti/electronic-products-prices),[AB Testing dataset](https://www.datacamp.com/projects/184)|
+
+
+
 **About Portfolio** - This portfolio's main purpose is to analyze price tendencies and the impact in the ad impression demand by pricing variation through time in various e-commerce platforms for brands among similar electronic products.
 
 # Content 
