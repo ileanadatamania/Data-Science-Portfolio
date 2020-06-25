@@ -4,7 +4,7 @@
 | --- | --- |
 |Language| Python|
 |Libraries Used| sklearn, NLTK,statsmodels, Numpy, Pandas, re(Regex), matplotlib, seaborn, wordcloud|
-|Projects Count| 5|
+|Projects Count| 6|
 | Author | Ileana Cabada |
 | Dataset | [Electronic_Pricedataset](https://www.kaggle.com/datafiniti/electronic-products-prices)|
 
