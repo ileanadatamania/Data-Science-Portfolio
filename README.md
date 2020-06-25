@@ -78,7 +78,7 @@ A/B Testing Distribution  |  Poisson Distribution
 #### About Model Implemented
 Due to the fact that the dataset doesn't count with category labelling for further price analysis between similar products (**i.e. tablets, headphones**).
 
-**Unsupervised texting clustering model** was implemented by using texting preprocessing techniques such as Lemmatization, Regex, Tokenization, followed by TF-IDF Vectorization and Kmeans algorithm.
+**Unsupervised texting clustering model** for the creation of product category label segmentation was implemented by using texting preprocessing techniques such as Lemmatization, Regex, Tokenization, followed by TF-IDF Vectorization and Kmeans algorithm.
 
 Category_name and Cluster features were created from unique product names with their respective product description. 
 
@@ -125,7 +125,9 @@ Price Distribution Plot     | Price Discount Correlation Heatmap
 #### Libraries 
 - **RE(Regex), Matplotlib, Pandas and Numpy**  
 
-
+Null, Unique and Datatype column values table    |
+:-------------------------:|
+![](https://github.com/ileanadatamania/images1/blob/master/Null.png)
 
    
 | Contact Source | Information |
