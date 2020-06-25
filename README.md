@@ -2,32 +2,59 @@
 
 | Portfolio Information | Description |
 | --- | --- |
-| Portfolio #1 | E-commerce Product Price Elasticity of Ad Impression Demand Analysis |
 |Language| Python|
 |Libraries Used| sklearn, NLTK,statsmodels, Numpy, Pandas, re(Regex), matplotlib, seaborn, wordcloud|
-|Projects Count| 5|
+|Projects Count| 6|
 | Author | Ileana Cabada |
 | Dataset | [Electronic_Pricedataset](https://www.kaggle.com/datafiniti/electronic-products-prices)|
 
 
 **About Portfolio** - This portfolio's main purpose is to analyze price tendencies and the impact in the ad impression demand by pricing variation through time in various e-commerce platforms for brands among similar electronic products.
 
-**About the dataset** - 
-Original dataset includes only electronic products with following features:
-product name, product description, product advertisment dateseen (impression), discount price, regular price, merchant (e-commerce website) and others
-
 # Content 
-## Part 1 .- Data Cleaning and Preprocessing ##
+# Probability and Statistics #
+
+- ### [Price Elasticity of Ad Impression Demand](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Price_Elasticityof_Demand.ipynb)
+In following analysis, we would select Best Buy products as main data sample for our price elasticity analysis. For future reference,this model can be implemented in every kind of vendors by e-commerce or brick and mortar by measuring sales demand
+
+ **Hypothesis Proposed**
+
+From Bestbuy laptop sample data in 2017. Is ad impression demand sensitive to its own product price changes? If yes, by how much ad impression demand is sensitive to price change?
+ 
+#### Statistical Model
+
+- Linear Regression
+
+ #### Libraries
+ 
+- **statsmodels, NumPy, Pandas, Matplotlib**
+
+Laptop, Desktop Price Elasticity     |
+:-------------------------:|
+![](https://github.com/ileanadatamania/images1/blob/master/CPE.png)
 
 
- - ### 1.1.- [E-commerce Product Data Cleaning](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/DataCleaning_price.ipynb) 
- managing null values, dropping of unused features, text normalization 
+- ### [Cross-Price Elasticity of Ad Impression Demand](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Cross-Price_ONLY.ipynb)
 
-#### Libraries 
-- **RE(Regex), Matplotlib, Pandas and Numpy**  
+ **Hypothesis Proposed**
 
+ How much is ad impression demand influenced by main competitors when they change their prices?
+ This model help us to know the naturality of competition between prices of our own price product advertised against main     competitors price product changes
 
-- ### 1.2.- [Unsupervised Text Classification with TDIF Vectorizing and Kmeans](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Kmeans_TDIF_NLP_TextClustering.ipynb)
+#### Statistical Model
+
+- Multi Linear Regression
+
+ #### Libraries
+ 
+- **statsmodels, NumPy, Pandas, Matplotlib**
+
+Cross-Price Elasticity of 12 Mac Book     |
+:-------------------------:|
+![](https://github.com/ileanadatamania/images1/blob/master/CPE.png)
+# Machine Learning and Natural Language Processing #
+
+- ### [Unsupervised Text Classification with TDIF Vectorizing and Kmeans](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Kmeans_TDIF_NLP_TextClustering.ipynb)
 #### About Model Implemented
 Due to the fact that the dataset doesn't count with category labelling for further price analysis between similar products (**i.e. tablets, headphones**).
 
@@ -48,9 +75,9 @@ WordCloud       |  Electronic Category Label Clusters
 :-------------------------:|:-------------------------:
 ![](https://github.com/ileanadatamania/images1/blob/master/wordcloud.png)  |  ![](https://github.com/ileanadatamania/images1/blob/master/clustword.png)
 
-## Part 2 .- Exploratory Data Analysis
+# Exploratory Data Analysis EDA #
  
-- ### 2.1.-[Price Exploratory Data Analysis](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/EDA_Price.ipynb)
+- ### [Price Exploratory Data Analysis](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/EDA_Price.ipynb)
 
 For further calculation of price elasticities with multilinear regression model. This price exploratory analysis was executed for following reasons:
 
@@ -68,48 +95,17 @@ Price Distribution Plot     | Price Discount Correlation Heatmap
 :-------------------------:|:-------------------------:
 ![](https://github.com/ileanadatamania/images1/blob/master/distplot.png)  |  ![](https://github.com/ileanadatamania/images1/blob/master/heatmapdisc.png)
 
-## Part 3 .-  Price Elasticity and Cross-Price Elasticity of Ad Impression Demand ##
 
-- ### 3.1 [Price Elasticity of Ad Impression Demand](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Price_Elasticityof_Demand.ipynb)
-In following analysis, we would select Best Buy products as main data sample for our price elasticity analysis. For future reference,this model can be implemented in every kind of vendors by e-commerce or brick and mortar by measuring sales demand
-
- **Hypothesis Proposed**
-
- From Bestbuy laptop sample data in 2017. Is ad impression demand sensitive to its own product price changes? If yes, by how much ad impression demand is sensitive to price change?
- 
-
- 
-#### Machine Learning Model
-
-- Linear Regression
-
- #### Libraries
- 
-- **statsmodels, NumPy, Pandas, Matplotlib**
-
-Laptop, Desktop Price Elasticity     |
-:-------------------------:|
-![](https://github.com/ileanadatamania/images1/blob/master/CPE.png)
+# Data Cleaning and Preprocessing #
 
 
-- ### 3.2 [Cross-Price Elasticity of Ad Impression Demand](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Cross-Price_ONLY.ipynb)
+ - ### [E-commerce Product Data Cleaning](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/DataCleaning_price.ipynb) 
+ managing null values, dropping of unused features, text normalization 
 
- **Hypothesis Proposed**
+#### Libraries 
+- **RE(Regex), Matplotlib, Pandas and Numpy**  
 
- How much is ad impression demand influenced by main competitors when they change their prices?
- This model help us to know the naturality of competition between prices of our own price product advertised against main     competitors price product changes
 
-#### Machine Learning Model
-
-- Multi Linear Regression
-
- #### Libraries
- 
-- **statsmodels, NumPy, Pandas, Matplotlib**
-
-Cross-Price Elasticity of 12 Mac Book     |
-:-------------------------:|
-![](https://github.com/ileanadatamania/images1/blob/master/CPE.png)
 
    
 | Contact Source | Information |
