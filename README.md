@@ -53,6 +53,25 @@ Laptop, Desktop Price Elasticity     |
 Cross-Price Elasticity of 12 Mac Book     |
 :-------------------------:|
 ![](https://github.com/ileanadatamania/images1/blob/master/CPE.png)
+
+
+- ### [A/B Retention Testing](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/ABtesting_gamedesign.ipynb)
+
+
+#### Statistical Model
+
+- Poisson Distribution, Bootstrap Distribution
+
+ #### Libraries
+ 
+- **statsmodels, NumPy, Pandas, Matplotlib**
+
+
+A/B Testing Distribution  |  Poisson Distribution
+:-------------------------:|:-------------------------:
+![](https://github.com/ileanadatamania/images1/blob/master/AB.png)  |  ![](https://github.com/ileanadatamania/images1/blob/master/Poisson.png)
+
+
 # Machine Learning and Natural Language Processing #
 
 - ### [Unsupervised Text Classification with TDIF Vectorizing and Kmeans](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Kmeans_TDIF_NLP_TextClustering.ipynb)
