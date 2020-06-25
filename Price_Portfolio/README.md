@@ -89,7 +89,7 @@ In following analysis, we would select Best Buy products as main data sample for
 
 Laptop, Desktop Price Elasticity     |
 :-------------------------:|
-![](https://github.com/ileanadatamania/images1/blob/master/CPE.png)
+![](https://github.com/ileanadatamania/images1/blob/master/PE.png)
 
 
 - ### 3.2 [Cross-Price Elasticity of Ad Impression Demand](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Cross-Price_ONLY.ipynb)
@@ -109,7 +109,7 @@ Laptop, Desktop Price Elasticity     |
 
 Cross-Price Elasticity of 12 Mac Book     |
 :-------------------------:|
-![](https://github.com/ileanadatamania/images1/blob/master/CPE.png)
+![](https://github.com/ileanadatamania/images1/blob/master/CPE1.png)
 
    
 | Contact Source | Information |
