@@ -10,7 +10,7 @@
 
 
 
-**About Portfolio** - This portfolio's main purpose is to analyze price tendencies and the impact in the ad impression demand by pricing variation through time in various e-commerce platforms for brands among similar electronic products.
+**About Portfolio** -Product Price and Cross- Price Elasticities in Advertisment demand, Product Category Labelling, A/B Player Retention Testing, Poisson Distribution, Price Exploratory Analysis
 
 # Content 
 # Probability and Statistics #
