@@ -49,6 +49,9 @@ Laptop, Desktop Price Elasticity     |
  
 - **statsmodels, NumPy, Pandas, Matplotlib**
 
+Cross-Price Elasticity of 12 Mac Book     |
+:-------------------------:|
+![](https://github.com/ileanadatamania/images1/blob/master/CPE.png)
 # Machine Learning and Natural Language Processing #
 
 - ### [Unsupervised Text Classification with TDIF Vectorizing and Kmeans](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Kmeans_TDIF_NLP_TextClustering.ipynb)
@@ -103,9 +106,6 @@ Price Distribution Plot     | Price Discount Correlation Heatmap
 - **RE(Regex), Matplotlib, Pandas and Numpy**  
 
 
-Cross-Price Elasticity of 12 Mac Book     |
-:-------------------------:|
-![](https://github.com/ileanadatamania/images1/blob/master/CPE.png)
 
    
 | Contact Source | Information |
