@@ -10,7 +10,7 @@
 
 
 
-**About Portfolio** -Product Price and Cross- Price Elasticities in Advertisment demand, Product Category Labelling, A/B Player Retention Testing, Poisson Distribution, Price Exploratory Analysis
+**About Portfolio** -Product Price and Cross- Price Elasticities of Advertisment demand, Product Category Labelling with natural language processing and machine learning, A/B Player Retention Testing and  games played probability, Price Exploratory Analysis
 
 # Content 
 # Probability and Statistics #
