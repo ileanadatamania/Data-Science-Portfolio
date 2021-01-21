@@ -13,7 +13,7 @@
 **About Portfolio** -Product Price and Cross- Price Elasticities of Advertisment demand, Feature engineering for machine learning (Product Category Labelling) with natural language processing , A/B Player Retention Testing and  games played probability, Price Exploratory Analysis
 
 # Content 
-# Probability and Statistics #
+# Applying Econometrics for Pricing Strategies using Linear Modeling #
 
 - ### [Price Elasticity of Ad Impression Demand](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Price_Elasticityof_Demand.ipynb)
 In following analysis, we would select Best Buy products as main data sample for our price elasticity analysis. For future reference,this model can be implemented in every kind of vendors by e-commerce or brick and mortar by measuring sales demand
