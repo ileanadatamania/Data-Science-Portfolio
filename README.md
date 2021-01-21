@@ -54,7 +54,7 @@ Cross-Price Elasticity of 12 Mac Book     |
 :-------------------------:|
 ![](https://github.com/ileanadatamania/images1/blob/master/CPE1.png)
 
-
+# A/B Testing for Consumer Retention #
 - ### [A/B Retention Testing](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/ABtesting_gamedesign.ipynb)
 
 
