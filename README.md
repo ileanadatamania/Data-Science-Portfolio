@@ -72,7 +72,7 @@ A/B Testing Distribution  |  Poisson Distribution
 ![](https://github.com/ileanadatamania/images1/blob/master/AB.png)  |  ![](https://github.com/ileanadatamania/images1/blob/master/Poisson.png)
 
 
-# Machine Learning and Natural Language Processing #
+# Feature Engineering for Machine Learning and Natural Language Processing #
 
 - ### [Unsupervised Text Classification with TDIF Vectorizing and Kmeans](https://github.com/ileanadatamania/Data-Science-Portfolio/blob/master/Kmeans_TDIF_NLP_TextClustering.ipynb)
 #### About Model Implemented
